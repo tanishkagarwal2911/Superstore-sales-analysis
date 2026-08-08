@@ -347,7 +347,7 @@ Use the available filters, slicers, drill-through pages, tooltips, and interacti
 
 📸 Dashboard Preview
 
-![Superstore Sales Dashboard](Screenshots/Official_Dashboard.png)
+![Superstore Sales Dashboard](Offcial_Dashboard.png)
 
 ---
 
